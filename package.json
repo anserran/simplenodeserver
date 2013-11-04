@@ -1,0 +1,8 @@
+{
+	"name": "simple-node-server",
+	"description": "A simple web server for when you don't want to set up Apache or Tomcat",
+	"author": "anserran <angelserranolaguna@gmail.com>",
+	"dependencies": {
+		"express": "*"
+	}
+}
